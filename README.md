@@ -14,6 +14,6 @@
   MachiKania type M ・・・ SDカードブートローダ対応  
 
   検証済みLCD  
-      ◆2.4インチ M024C9325SLD (ILI9325)  
-      https://www.aitendo.com/product/15381  
+      ◆2.4インチ [M024C9325SLD ](https://www.aitendo.com/product/15381 )(ILI9325)  
+       
       
