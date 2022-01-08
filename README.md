@@ -33,14 +33,12 @@
 　　　従来の液晶の解像度は240ｘ320　本液晶の解像度は  
 　　　320ｘ480有るので　縦、横ともに1.5倍に拡大表示を  
 　　　しています。  
-
 　　◆2.4インチ aitendo [UL024S8AAA](https://www.aitendo.com/product/13414)(ILI9325)  
 　　　　※RD,WR,RS,CS端子が通常と違う配置となっている為  
 　　　　ピンアサインの設定を変更してビルドしています。  
 　　　　又　RST端子も違う端子に接続されている為
-　　　　ケンケン様のツイッターを参考に変更してください。
-　　　　https://twitter.com/KenKenMkIISR/status/1119941544297897984
-   
+　　　　ケンケン様のツイッターを参考に変更してください。  
+　　　　https://twitter.com/KenKenMkIISR/status/1119941544297897984  
 　　◆ELEGOO製 [2.8型液晶シールド](https://www.amazon.co.jp/gp/product/B06Y5ZXXL8)(ILI9341)  
 　　◆HiLetgo製 [2.4型液晶シールド](https://www.amazon.co.jp/gp/product/B0722DPHN6)(ILI9341)  
   
