@@ -1,17 +1,17 @@
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊  
-　　Xeviousモドキ Ver.1.1.0   
-　　製作者 DOAZN  
-　　MachiKania type M + LCD(Arduinoピン互換)   
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊  
+## ソフトの紹介  
 
-＊＊＊＊＊ ソフトの紹介 ＊＊＊＊＊  
+　1980年代に一世を風靡したアーケードゲームを　ケンケン様作成の [MachiKania type M](http://www.ze.em-net.ne.jp/~kenken/machikania/typem.html)上で  
+　出来る限り再現しましたので 楽しんで頂ければ幸いです。  
+　音声は2和音PWM、YAMAHAのFM音源（[YMF825Board](http://uda.la/fm/)) (要3.3V改造)  
+　尚　16bit版は　LCDのmodeを16bitに変更の上D0~D15の配線と制御線の変更が必要です。  
+　<ケンケン様HP>http://www.ze.em-net.ne.jp/~kenken/index.html  　
 
-  1980年代に一世を風靡したアーケードゲームを MachiKania type M上で  
-  出来る限り再現しましたので 楽しんで頂ければ幸いです。  
+## 回路図  
+![](Xevious_MachiKania.jpg)  
 
-＊＊＊＊＊ 動作環境 ＊＊＊＊＊  
+## 動作環境  
 
-  MachiKania type M ・・・ SDカードブートローダ対応  
+MachiKania type M ・・・ SDカードブートローダ対応  
 
   検証済みLCD  
 　　◆2.4インチ aitedo [M024C9325SLD](https://www.aitendo.com/product/15381 )(ILI9325)  
@@ -42,3 +42,11 @@
 　　◆ELEGOO製 [2.8型液晶シールド](https://www.amazon.co.jp/gp/product/B06Y5ZXXL8)(ILI9341)  
 　　◆HiLetgo製 [2.4型液晶シールド](https://www.amazon.co.jp/gp/product/B0722DPHN6)(ILI9341)  
   
+## 起動方法
+　　1. SDカードにLCDに対応するHEXファイル（実行ファイル）を保存。  
+　　　　※ファイル名は8文字以下に変更しコピー願います。  
+　　2. MachiKania type MnにてSDカードブートローダ起動し テレビ画面上の  
+　　　　リストからHEXファイルを選択しLOADする。  
+　　　　※ファイル容量が大きいので黒い画面が15秒程度続きますが  
+　　　　　焦らずお待ちください。  
+　　3. 一度起動すると次回からは電源を入れると直ぐにゲームが始まります。  
