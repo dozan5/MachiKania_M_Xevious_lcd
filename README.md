@@ -26,16 +26,21 @@
 　　　※（Arduino互換のpin配列に変換が必要）  
 　　◆3.2インチ aitendo [M032C9341B3](https://www.aitendo.com/product/11138)(ILI9341)  
 　　　※（Arduino互換のpin配列に変換が必要）  
+　　◆2.6インチTFT液晶with基板 aitendo [M-1N3204-2P](https://www.aitendo.com/product/11975)(R61505W)  
+　　　※（Arduino互換のpin配列に変換が必要） 
+　　◆3.5インチ★液晶モジュール aitendo [M035C9486LB3](https://www.aitendo.com/product/11138)(ILI9486L)  
+　　　※（Arduino互換のpin配列に変換が必要）  
+　　　従来の液晶の解像度は240ｘ320　本液晶の解像度は  
+　　　320ｘ480有るので　縦、横ともに1.5倍に拡大表示を  
+　　　しています。  
 
+　　◆2.4インチ aitendo [UL024S8AAA](https://www.aitendo.com/product/13414)(ILI9325)  
+　　　　※RD,WR,RS,CS端子が通常と違う配置となっている為  
+　　　　ピンアサインの設定を変更してビルドしています。  
+　　　　又　RST端子も違う端子に接続されている為
+　　　　ケンケン様のツイッターを参考に変更してください。
+　　　　https://twitter.com/KenKenMkIISR/status/1119941544297897984
+   
 　　◆ELEGOO製 [2.8型液晶シールド](https://www.amazon.co.jp/gp/product/B06Y5ZXXL8)(ILI9341)  
 　　◆HiLetgo製 [2.4型液晶シールド](https://www.amazon.co.jp/gp/product/B0722DPHN6)(ILI9341)  
-
-　　◆2.4インチ UL024S8AAA (ILI9325)
-      https://www.aitendo.com/product/13414
-
-　　　※RD,WR,RS,CS端子が通常と違う配置となっている為
-　　　　ピンアサインの設定を変更してビルドしています。
-
-　　　又　RST端子も違う端子に接続されている為
-　　　ケンケン様のツイッターを参考に変更してください。
-　　　https://twitter.com/KenKenMkIISR/status/1119941544297897984
+  
