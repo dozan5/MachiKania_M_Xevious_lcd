@@ -2,8 +2,9 @@
 
 　1980年代に一世を風靡したアーケードゲームを　ケンケン様作成の [MachiKania type M](http://www.ze.em-net.ne.jp/~kenken/machikania/typem.html)上で  
 　出来る限り再現しましたので 楽しんで頂ければ幸いです。  
-　音声はRCA出力(LR)、圧電SP(2和音PWM)、YAMAHAのFM音源（[YMF825Board](http://uda.la/fm/)) (要3.3V改造)に対応。  
+　音声はRCA出力(L+R)※、圧電SP(2和音PWM)、YAMAHAのFM音源（[YMF825Board](http://uda.la/fm/)) (要3.3V改造)に対応。  
 　尚　16bit版は　LCDのmodeを16bitに変更の上D0~D15の配線と制御線の変更が必要です。  
+　　※Video版はLchのみ
 
 ## 回路図  
 ![](Xevious_MachiKania.jpg)  
