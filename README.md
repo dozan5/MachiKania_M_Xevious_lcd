@@ -56,7 +56,7 @@ MachiKania type M ・・・ SDカードブートローダ対応
 　　　　320ｘ480有るので　縦、横ともに1.5倍に拡大表示を  
 　　　　しています。  
 
-　　　16bit専用  
+　　16bit専用  
 　　　◆3.2インチ aitendo [S95461C](https://www.aitendo.com/product/5238)(HX8352)  
 　　　　※（Arduino互換のpin配列に変換が必要）
 
@@ -85,6 +85,3 @@ https://www.kenic.co.jp/
 
 シューティングゲームの館  
 https://dixq.net/s/  
-
-
-
