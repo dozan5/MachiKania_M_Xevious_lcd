@@ -4,14 +4,20 @@
 　出来る限り再現しましたので 楽しんで頂ければ幸いです。  
 　音声はRCA出力(LR)、圧電SP(2和音PWM)、YAMAHAのFM音源（[YMF825Board](http://uda.la/fm/)) (要3.3V改造)に対応。  
 　尚　16bit版は　LCDのmodeを16bitに変更の上D0~D15の配線と制御線の変更が必要です。  
-　<ケンケン様HP>http://www.ze.em-net.ne.jp/~kenken/index.html  　
 
 ## 回路図  
 ![](Xevious_MachiKania.jpg)  
 
 ## 実機写真  
-　　Arduinoシールド  
+　　FM音源　Arduinoシールド化  
 　　![](Xevious1.jpg)  
+
+　　動作写真  
+　　![](Xevious2.jpg)  
+
+　　おまけ  
+　　　Pico版 Xevious用のFM音源シールドも利用可能  
+　　![](Xevious3.jpg)  
 
 ## 動作環境  
 
@@ -62,3 +68,23 @@ MachiKania type M ・・・ SDカードブートローダ対応
 　　　　※ファイル容量が大きいので黒い画面が15秒程度続きますが  
 　　　　　焦らずお待ちください。  
 　　3. 一度起動すると次回からは電源を入れると直ぐにゲームが始まります。  
+
+## 参考HP  
+
+趣味の電子工作とプログラミング　ケンケンのホームページ  
+http://www.ze.em-net.ne.jp/~kenken/index.html  
+
+85DATA Home  
+http://85data.world.coocan.jp/index.html  
+
+Petit Lab(ゲーム制作のページ)  
+https://92zo.at.webry.info/  
+
+有限会社ケニックシステム(ダウンロード=>ツール・ソフト=>BMPコンバータ)  
+https://www.kenic.co.jp/  
+
+シューティングゲームの館  
+https://dixq.net/s/  
+
+
+
