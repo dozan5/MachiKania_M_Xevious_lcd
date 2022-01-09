@@ -27,8 +27,8 @@ MachiKania type M ・・・ SDカードブートローダ対応
 　　◆3.2インチ aitendo [M032C9341B3](https://www.aitendo.com/product/11138)(ILI9341)  
 　　　※（Arduino互換のpin配列に変換が必要）  
 　　◆2.6インチTFT液晶with基板 aitendo [M-1N3204-2P](https://www.aitendo.com/product/11975)(R61505W)  
-　　　※（Arduino互換のpin配列に変換が必要） 
-　　◆3.5インチ★液晶モジュール aitendo [M035C9486LB3](https://www.aitendo.com/product/11138)(ILI9486L)  
+　　　※（Arduino互換のpin配列に変換が必要）  
+　　◆3.5インチ★液晶モジュール aitendo [M035C9486LB3](https://www.aitendo.com/product/11138)(ILI9486L)   
 　　　※（Arduino互換のpin配列に変換が必要）  
 　　　従来の液晶の解像度は240ｘ320　本液晶の解像度は  
 　　　320ｘ480有るので　縦、横ともに1.5倍に拡大表示を  
