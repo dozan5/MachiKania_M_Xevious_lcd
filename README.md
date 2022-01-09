@@ -15,7 +15,7 @@
 　　動作写真  
 　　![](Xevious2.jpg)  
 
-動画は[こちら](https://youtu.be/k7zicNdjFV4)で公開しています。  
+動画（Video版）を[こちら](https://youtu.be/k7zicNdjFV4)で公開しています。  
 
 　　おまけ  
 　　　Pico版 Xevious用のFM音源シールドも利用可能  
