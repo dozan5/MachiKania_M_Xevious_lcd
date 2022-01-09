@@ -39,6 +39,7 @@ MachiKania type M ・・・ SDカードブートローダ対応
 　　　　又　RST端子も違う端子に接続されている為  
 　　　　ケンケン様のツイッターを参考に変更してください。  
 　　　　https://twitter.com/KenKenMkIISR/status/1119941544297897984  
+　　◆3.2インチ aitendo [S95461C](https://www.aitendo.com/product/5238)(HX8352)  
 　　◆ELEGOO製 [2.8型液晶シールド](https://www.amazon.co.jp/gp/product/B06Y5ZXXL8)(ILI9341)  
 　　◆HiLetgo製 [2.4型液晶シールド](https://www.amazon.co.jp/gp/product/B0722DPHN6)(ILI9341)  
   
