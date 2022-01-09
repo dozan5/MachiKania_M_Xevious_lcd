@@ -9,6 +9,10 @@
 ## 回路図  
 ![](Xevious_MachiKania.jpg)  
 
+## 実機写真  
+　　Arduinoシールド  
+　　![](Xevious1.jpg)  
+
 ## 動作環境  
 
 MachiKania type M ・・・ SDカードブートローダ対応  
@@ -26,11 +30,12 @@ MachiKania type M ・・・ SDカードブートローダ対応
 　　　◆2.6インチTFT液晶with基板 aitendo [M-1N3204-2P](https://www.aitendo.com/product/11975)(R61505W)  
 　　　　※（Arduino互換のpin配列に変換が必要）  
 　　　◆2.4インチ aitendo [UL024S8AAA](https://www.aitendo.com/product/13414)(ILI9325)  
-　　　　　※RD,WR,RS,CS端子が通常と違う配置となっている為  
-　　　　　ピンアサインの設定を変更してビルドしています。  
-　　　　　又　RST端子も違う端子に接続されている為  
-　　　　　ケンケン様のツイッターを参考に変更してください。  
-　　　　　https://twitter.com/KenKenMkIISR/status/1119941544297897984  
+　　　　　※Xevious_UL024S8AAA.hexを利用ください。  
+　　　　　　RD,WR,RS,CS端子が通常と違う配置となっている為  
+　　　　　　ピンアサインの設定を変更してビルドしています。  
+　　　　　　又　RST端子も違う端子に接続されている為  
+　　　　　　ケンケン様のツイッターを参考に変更してください。  
+　　　　　　　https://twitter.com/KenKenMkIISR/status/1119941544297897984  
 　　　◆ELEGOO製 [2.8型液晶シールド](https://www.amazon.co.jp/gp/product/B06Y5ZXXL8)(ILI9341)  
 　　　◆HiLetgo製 [2.4型液晶シールド](https://www.amazon.co.jp/gp/product/B0722DPHN6)(ILI9341)  
 
