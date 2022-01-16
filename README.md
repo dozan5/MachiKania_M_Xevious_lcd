@@ -73,6 +73,11 @@ MachiKania type M ・・・ SDカードブートローダ対応
 　　　　　焦らずお待ちください。  
 　　3. 一度起動すると次回からは電源を入れると直ぐにゲームが始まります。  
 
+## KM-BASIC
+
+　　KM-BASICフォルダー内にYMF825.BASを追加しました。  
+　　MachiKania type M上でKM-BASICを起動しYMF825.BASをLOAD、RUNで起動。  　　
+
 ## 参考HP  
 
 趣味の電子工作とプログラミング　ケンケンのホームページ  
