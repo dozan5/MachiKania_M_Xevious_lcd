@@ -76,7 +76,8 @@ MachiKania type M ・・・ SDカードブートローダ対応
 ## KM-BASIC
 
 　　KM-BASICフォルダー内にYMF825.BASを追加しました。  
-　　MachiKania type MでYMF825.BASをLOAD、RUNで起動。  
+　　MachiKania type M上でMACHIKAMを選択。  
+  　YMF825.BASをLOAD、RUNで起動。  
 　　再生動画は[こちら](https://youtu.be/EgpQL7YyyQ4)で公開しています。  
 
 ## 参考HP  
