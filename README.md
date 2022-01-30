@@ -48,7 +48,7 @@ MachiKania type M ・・・ SDカードブートローダ対応
 　　　◆ELEGOO製 [2.8型液晶シールド](https://www.amazon.co.jp/gp/product/B06Y5ZXXL8)(ILI9341)  
 　　　◆HiLetgo製 [2.4型液晶シールド](https://www.amazon.co.jp/gp/product/B0722DPHN6)(ILI9341)  
 
-　　　【追加】
+　　　【追加】  
 　　　◆ORAGE pico社[3.5インチTFT液晶](https://store.shopping.yahoo.co.jp/orangepicoshop/pico-m-045.html)(ILI9486)  
 
 　　8bit/16bit兼用  
