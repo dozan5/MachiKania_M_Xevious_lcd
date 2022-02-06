@@ -67,6 +67,8 @@ MachiKania type M ・・・ SDカードブートローダ対応
 　　16bit専用  
 　　　◆3.2インチ aitendo [S95461C](https://www.aitendo.com/product/5238)(HX8352)  
 　　　　※（Arduino互換のpin配列に変換が必要）  
+
+　　　　【追加】  
 　　　◆MY ARCADE搭載LCD対応  
 　　　　　LCDの素性を調査するとID:は7789でしたが　このIDはSPI液晶用でした。  
 　　　　　IDの信憑性は薄い為　ドライバーは16bitモード、基本的な初期化のみ搭載しています。  
