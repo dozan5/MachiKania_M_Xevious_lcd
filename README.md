@@ -47,11 +47,12 @@ MachiKania type M ・・・ SDカードブートローダ対応
 　　　　　　　https://twitter.com/KenKenMkIISR/status/1119941544297897984  
 　　　◆ELEGOO製 [2.8型液晶シールド](https://www.amazon.co.jp/gp/product/B06Y5ZXXL8)(ILI9341)  
 　　　◆HiLetgo製 [2.4型液晶シールド](https://www.amazon.co.jp/gp/product/B0722DPHN6)(ILI9341)  
-
-　　　【追加】  
 　　　◆ORANGE pico社 [3.5インチTFT液晶(Arduinoシールド)](https://store.shopping.yahoo.co.jp/orangepicoshop/pico-m-045.html)(ILI9486)  
 　　　　従来のILI9486版ではLCDパネルの仕様の違いで色の発色が異なる場合が有ります。  
 　　　　その場合はこちらをご使用ください。  
+　　　【追加】  
+　　　◆2.4インチ aitedo M024C9320TP(ILI9320,R61505)  
+　　　　　※工作魂様より提供頂きました。　有難うございました。  
 
 　　8bit/16bit兼用  
 　　　◆3.2インチ aitendo [LCD032-2P](https://www.aitendo.com/product/13748)(SSD1289)  
